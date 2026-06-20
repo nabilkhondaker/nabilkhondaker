@@ -17,7 +17,8 @@
 ### 🛠️ Skills
 
 - **Core**: JavaScript/TypeScript, Python, C++
-- **Focus Areas**: Real-time Physics Engines • 2D FEA • Lattice Boltzmann CFD • Inverse Kinematics • Topology Optimization • Robotic Simulation
+- **Focus Areas**:
+  - Real-time Physics Engines • 2D FEA • Lattice Boltzmann CFD • Inverse Kinematics • Topology Optimization • Robotic Simulation
 
 ---
 
