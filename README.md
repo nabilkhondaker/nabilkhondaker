@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-16-year-old developer and aspiring engineer passionate about turning complex physics and engineering problems into interactive web simulations. I specialize in **computational mechanics**, **robotics**, **finite element analysis**, and **generative design**.
+16-year-old developer and aspiring mech engineer passionate about turning complex physics and engineering problems into interactive web simulations. I specialize in **computational mechanics**, **robotics**, **finite element analysis**, and **generative design**.
 
 **"Code is my CAD tool, and simulation is my playground."**
 
@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills
 
-- **Core**: JavaScript/TypeScript, Python, C++
+- **Core**: JavaScript/TypeScript, Python, C++, Lua, HTML/CSS
 - **Focus Areas**:
   - Real-time Physics Engines • 2D FEA • Lattice Boltzmann CFD • Inverse Kinematics • Topology Optimization • Robotic Simulation
 
