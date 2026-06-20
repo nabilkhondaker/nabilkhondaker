@@ -35,11 +35,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilkhondaker&layout=compact&theme=radical&hide_border=true)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nabilkhondaker&show_icons=true&theme=radical&hide_border=true)
-
 </div>
 
 ---
@@ -47,7 +43,7 @@
 ### 🌐 Connect
 
 - **Website**: [nabilkd.com](https://nabilkd.com/)
-- **Instagram**: [@tripledeuce_](https://www.instagram.com/ind7kuh/)
+- **Instagram**: [@tripledeuce_](https://www.instagram.com/tripledeuce_/)
 - **Email**: nabilwrld69@gmail.com
 
 ---
