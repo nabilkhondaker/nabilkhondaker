@@ -3,8 +3,6 @@
 **Aspiring Mechanical Engineer** | **Teenage Developer** | **Computational Mechanics Enthusiast**  
 **Class of 2026** | Riverside, CA | 🇧🇩 roots
 
-![Profile Views](https://komarev.com/ghpvc/?username=nabilkhondaker&label=Profile%20Views&color=0e75b6&style=for-the-badge) 
-![GitHub Stars](https://img.shields.io/github/stars/nabilkhondaker?color=ffd700&style=for-the-badge) 
 ![Contributions](https://img.shields.io/badge/Contributions-193%2B%20this%20year-blueviolet?style=for-the-badge)
 
 ---
