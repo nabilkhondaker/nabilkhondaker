@@ -17,7 +17,9 @@ currently building toward **mechatronics** — blending mechanical systems with 
 
 ## 🛠️ skills
 
-### mechanical + computational
+<details>
+<summary>mechanical + computational</summary>
+
 - cad & generative design
 - finite element analysis (fea)
 - kinematics & robotic simulation
@@ -25,15 +27,26 @@ currently building toward **mechatronics** — blending mechanical systems with 
 - topology optimization
 - real-time physics engines
 
-### exploring
-- mechatronics & control systems
-- basic electronics & embedded systems
-- sensors & actuation
+</details>
 
-### core tech
+<details>
+<summary>mechatronics & exploring</summary>
+
+- robotics & control systems
+- sensors, actuators & computer vision
+- basic electronics & embedded concepts
+- system integration (mech + software)
+
+</details>
+
+<details>
+<summary>core tech</summary>
+
 - javascript/typescript • python • c++
 - html/css • lua
 - webgl • canvas • opencv
+
+</details>
 
 ---
 
@@ -63,6 +76,6 @@ currently building toward **mechatronics** — blending mechanical systems with 
 
 ---
 
-made with ❤️, simulations, and coffee ⚙️
+made with ❤️ & simulations ⚙️
 
 *(more electrical/mechatronics projects coming soon — stay tuned)*
