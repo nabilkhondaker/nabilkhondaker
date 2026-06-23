@@ -60,12 +60,7 @@ currently building toward **mechatronics** — blending mechanical systems with 
 - **[robosim](https://github.com/nabilkhondaker/RoboSIM)** — interactive robotic arm visualizer
 
 ---
-
-## 📊 github stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=nabilkhondaker&show_icons=true&theme=dark)  
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilkhondaker&layout=compact&theme=dark)
-
 ---
 
 ## 🌐 connect
