@@ -1,53 +1,68 @@
-# 👋 Hi, I'm Nabil Khondaker
+# hi, i'm nabil khondaker
 
-**Aspiring Mechanical Engineer** | **Teenage Developer** | **Computational Mechanics Enthusiast**  
-**High School Class of 2026** | Riverside, CA | 🇧🇩
-
-![Contributions](https://img.shields.io/badge/Contributions-193%2B%20this%20year-blueviolet?style=for-the-badge)
----
-
-### 🚀 About Me
-
-16-year-old developer and aspiring mech engineer passionate about turning complex physics and engineering problems into interactive web simulations. I specialize in **computational mechanics**, **robotics**, **finite element analysis**, and **generative design**.
-
-**"Code is my CAD tool, and simulation is my playground."**
+**aspiring mechanical & electrical engineer** | class of 2026 | riverside, ca | 🇧🇩
 
 ---
 
-### 🛠️ Skills
+## 🚀 about me
 
-- **Core**: JavaScript/TypeScript, Python, C++, Lua, HTML/CSS
-- **Focus Areas**:
-  - Real-time Physics Engines • 2D FEA • Lattice Boltzmann CFD • Inverse Kinematics • Topology Optimization • Robotic Simulation
+16-year-old valedictorian turning physics into interactive simulations.  
+deeply focused on **computational mechanics**, **robotics**, **finite element analysis**, and **generative design**.  
 
----
+currently building toward **mechatronics** — blending mechanical systems with electronics and control. still heavy on the mech side while exploring circuits and embedded systems.
 
-### 🔥 Featured Projects
-
-- **[FEAPlayground2D](https://github.com/nabilkhondaker/FEAPlayground2D)** — Interactive 2D Finite Element Analysis
-- **[KinematicsJS](https://github.com/nabilkhondaker/KinematicsJS)** — Real-time kinematics & physics engine
-- **[FEAGenerative](https://github.com/nabilkhondaker/FEAGenerative)** — Generative design & topology optimization
-- **[CFDSolve](https://github.com/nabilkhondaker/CFDSolve)** — Web-based CFD solver
-- **[RoboSIM](https://github.com/nabilkhondaker/RoboSIM)** — Interactive robotic arm visualizer
+*"code is my cad tool, simulation is my playground."*
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ skills
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilkhondaker&layout=compact&theme=radical&hide_border=true)
+### mechanical + computational
+- cad & generative design
+- finite element analysis (fea)
+- kinematics & robotic simulation
+- computational fluid dynamics (cfd)
+- topology optimization
+- real-time physics engines
 
-</div>
+### exploring
+- mechatronics & control systems
+- basic electronics & embedded systems
+- sensors & actuation
+
+### core tech
+- javascript/typescript • python • c++
+- html/css • lua
+- webgl • canvas • opencv
 
 ---
 
-### 🌐 Connect
+## 🔥 featured projects
 
-- **Website**: [nabilkd.com](https://nabilkd.com/)
-- **Instagram**: [@tripledeuce_](https://www.instagram.com/tripledeuce_/)
-- **Email**: nabilwrld69@gmail.com
+- **[feaplayground2d](https://github.com/nabilkhondaker/FEAPlayground2D)** — interactive 2d finite element analysis
+- **[cfdsolve](https://github.com/nabilkhondaker/CFDSolve)** — web-based lattice boltzmann cfd solver
+- **[tabletopplanararm](https://github.com/nabilkhondaker/TabletopPlanarArm)** — 2r planar robotic arm (hands-on mechatronics prototype)
+- **[kinematicsjs](https://github.com/nabilkhondaker/KinematicsJS)** — real-time kinematics & physics engine
+- **[feagenerative](https://github.com/nabilkhondaker/FEAGenerative)** — topology optimization in real-time
+- **[robosim](https://github.com/nabilkhondaker/RoboSIM)** — interactive robotic arm visualizer
 
 ---
 
-*Made with ❤️ and lots of simulations*
+## 📊 github stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=nabilkhondaker&show_icons=true&theme=dark)  
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilkhondaker&layout=compact&theme=dark)
+
+---
+
+## 🌐 connect
+
+- **website**: [nabilkd.com](https://nabilkd.com)
+- **instagram**: [@tripledeuce_](https://instagram.com/tripledeuce_)
+- **email**: nabilwrld69@gmail.com
+
+---
+
+made with ❤️, simulations, and coffee ⚙️
+
+*(more electrical/mechatronics projects coming soon — stay tuned)*
