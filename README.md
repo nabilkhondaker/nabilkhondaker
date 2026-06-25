@@ -67,9 +67,7 @@ currently building toward **mechatronics** — blending mechanical systems with 
 ## 🌐 connect
 
 - **website**: [nabilkd.com](https://nabilkd.com)
-- **instagram**: [@tripledeuce_](https://instagram.com/tripledeuce_)
-- **email**: nabilwrld69@gmail.com
-
+- **email**: [nabilkd@nabilkd.com](mailto:nabilkd@nabilkd.com)
 ---
 
 made with ❤️ & simulations ⚙️
