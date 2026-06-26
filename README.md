@@ -67,6 +67,7 @@ currently building toward **mechatronics** — blending mechanical systems with 
 ## 🌐 connect
 
 - **website**: [nabilkd.com](https://nabilkd.com)
+- **codeberg:** [codeberg.org/nabilkd](https://codeberg.org/nabilkd/)
 - **email**: nabilkd@nabilkd.com
 ---
 
