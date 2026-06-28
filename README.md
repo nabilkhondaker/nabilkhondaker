@@ -1,6 +1,6 @@
 # hi, i'm nabil khondaker
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-nabilkd.com-blue?style=for-the-badge)](https://nabilkd.com/)
+[![portfolio](https://img.shields.io/badge/Live%20Demo-nabilkd.com-blue?style=for-the-badge)](https://nabilkd.com/)
 
 **aspiring mechanical & electrical engineer** | class of 2026 | riverside, ca | 🇧🇩
 
