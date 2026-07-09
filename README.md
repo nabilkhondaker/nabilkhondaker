@@ -63,8 +63,6 @@ currently building toward **mechatronics** — blending mechanical systems with 
 - **[renewableenergysim](https://github.com/nabilkhondaker/RenewableEnergySim)** — enterprise python renewable energy microgrid simulator
 
 ---
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilkhondaker&layout=compact&theme=dark)
----
 
 ## 🌐 connect
 
