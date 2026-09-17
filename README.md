@@ -60,7 +60,7 @@ currently building toward **mechatronics** — blending mechanical systems with 
 - **[kinematicsjs](https://github.com/nabilkhondaker/KinematicsJS)** — real-time kinematics & physics engine
 - **[feagenerative](https://github.com/nabilkhondaker/FEAGenerative)** — topology optimization in real-time
 - **[robosim](https://github.com/nabilkhondaker/RoboSIM)** — interactive robotic arm visualizer
-- **[renewableenergysim](https://github.com/nabilkhondaker/RenewableEnergySim)** — enterprise python renewable energy microgrid simulator
+- **[renewableenergysim](https://github.com/nabilkhondaker/RenewableEnergySim)** — python simulator for renewable-energy microgrids
 
 ---
 
