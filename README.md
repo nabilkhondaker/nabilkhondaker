@@ -57,8 +57,13 @@ currently building toward **mechatronics** — blending mechanical systems with 
 - **[feaplayground2d](https://github.com/nabilkhondaker/FEAPlayground2D)** — interactive 2d finite element analysis
 - **[cfdsolve](https://github.com/nabilkhondaker/CFDSolve)** — web-based lattice boltzmann cfd solver
 - **[tabletopplanararm](https://github.com/nabilkhondaker/TabletopPlanarArm)** — 2r planar robotic arm (hands-on mechatronics prototype)
-- **[kinematicsjs](https://github.com/nabilkhondaker/KinematicsJS)** — real-time kinematics & physics engine
+- **[ai failure investigator](https://github.com/nabilkhondaker/AIFailureInvestigator)** - multi-sensor machine fault diagnosis
+- **[ai cybersecurity lab](https://github.com/nabilkhondaker/AICybersecurityLab)** - ai-assisted cybersecurity research lab
+- **[climate sim](https://github.com/nabilkhondaker/ClimateSim)** - c++20 climate infrastructure simulator
+- **[computational mechanics engine](https://github.com/nabilkhondaker/ComputationalMechEngine)** - c++20 finite-element mechanics engine
+- **[neural ik](https://github.com/nabilkhondaker/Neural-IK)** - planar arm inverse kinematics lab
 - **[feagenerative](https://github.com/nabilkhondaker/FEAGenerative)** — topology optimization in real-time
+- **[kinematicsjs](https://github.com/nabilkhondaker/KinematicsJS)** — real-time kinematics & physics engine
 - **[robosim](https://github.com/nabilkhondaker/RoboSIM)** — interactive robotic arm visualizer
 - **[renewableenergysim](https://github.com/nabilkhondaker/RenewableEnergySim)** — python simulator for renewable-energy microgrids
 
@@ -66,9 +71,9 @@ currently building toward **mechatronics** — blending mechanical systems with 
 
 ## 🌐 connect
 
-- **portfolio**: [nabilkd.com](https://nabilkd.com)
+- **portfolio**: [nabilkhondaker.github.io](https://nabilkhondaker.github.io/)
 - **codeberg:** [codeberg.org/nabilkd](https://codeberg.org/nabilkd/)
-- **email**: nabilwrld69@gmail.com
+- **email**: [nabilk@tuta.io](mailto:nabilk@tuta.io/)
 ---
 
 made with ❤️ & simulations ⚙️
