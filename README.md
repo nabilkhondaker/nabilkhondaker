@@ -8,7 +8,7 @@
 
 ## 🚀 about me
 
-16-year-old valedictorian turning physics into interactive simulations. computational mechanics, robotics, and engineering fanatic.
+bangladeshi-american 16-year-old valedictorian turning physics into interactive simulations. computational mechanics, robotics, and engineering fanatic.
 deeply focused on **computational mechanics**, **robotics**, **finite element analysis**, and **generative design**.  
 
 currently building toward **mechatronics** — blending mechanical systems with electronics and control. still heavy on the mech side while exploring circuits and embedded systems.
