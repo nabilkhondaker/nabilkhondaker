@@ -76,6 +76,9 @@ currently building toward **mechatronics** — blending mechanical systems with 
 - **email**: [nabilk@tuta.io](mailto:nabilk@tuta.io/)
 ---
 
+[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 made with ❤️ & simulations ⚙️
 
 *(more electrical/mechatronics projects coming soon — stay tuned)*
