@@ -2,16 +2,16 @@
 
 [![portfolio](https://img.shields.io/badge/Live%20Demo-nabilkhondaker.github.io-blue?style=for-the-badge)](https://nabilkhondaker.github.io/)
 
-**aspiring mechanical & electrical engineer** | class of 2026 | riverside, ca | 🇧🇩
+**computational engineering student | quantitative scientific computing & sciML** | class of 2026 | riverside, ca | 🇧🇩
 
 ---
 
 ## 🚀 about me
 
-bangladeshi-american 16-year-old valedictorian turning physics into interactive simulations. computational mechanics, robotics, and engineering fanatic.
+bangladeshi-american 16-year-old valedictorian turning physics into interactive simulations. computational mechanics, robotics, and engineering/science fanatic.
 deeply focused on **computational mechanics**, **robotics**, **finite element analysis**, and **generative design**.  
 
-currently building toward **mechatronics** — blending mechanical systems with electronics and control. still heavy on the mech side while exploring circuits and embedded systems.
+currently building toward **scientific computing & SciML** — custom FEA/CFD, generative design, physics-informed ML, and sim-to-physical systems (plus select quant finance).
 
 *"code is my cad tool, simulation is my playground."*
 
