@@ -53,19 +53,23 @@ currently building toward **scientific computing & SciML** — custom FEA/CFD, g
 ---
 
 ## 🔥 featured projects
-
-- **[feaplayground2d](https://github.com/nabilkhondaker/FEAPlayground2D)** — interactive 2d finite element analysis
-- **[cfdsolve](https://github.com/nabilkhondaker/CFDSolve)** — web-based lattice boltzmann cfd solver
-- **[tabletopplanararm](https://github.com/nabilkhondaker/TabletopPlanarArm)** — 2r planar robotic arm (hands-on mechatronics prototype)
-- **[ai failure investigator](https://github.com/nabilkhondaker/AIFailureInvestigator)** - multi-sensor machine fault diagnosis
-- **[ai cybersecurity lab](https://github.com/nabilkhondaker/AICybersecurityLab)** - ai-assisted cybersecurity research lab
-- **[climate sim](https://github.com/nabilkhondaker/ClimateSim)** - c++20 climate infrastructure simulator
-- **[computational mechanics engine](https://github.com/nabilkhondaker/ComputationalMechEngine)** - c++20 finite-element mechanics engine
-- **[neural ik](https://github.com/nabilkhondaker/Neural-IK)** - planar arm inverse kinematics lab
-- **[feagenerative](https://github.com/nabilkhondaker/FEAGenerative)** — topology optimization in real-time
-- **[kinematicsjs](https://github.com/nabilkhondaker/KinematicsJS)** — real-time kinematics & physics engine
-- **[robosim](https://github.com/nabilkhondaker/RoboSIM)** — interactive robotic arm visualizer
-- **[renewableenergysim](https://github.com/nabilkhondaker/RenewableEnergySim)** — python simulator for renewable-energy microgrids
+- **[continuumlob](https://github.com/nabilkhondaker/ContinuumLOB)** — continuum limit-order-book with finite-volume pde, fno/deeponet surrogates & sac execution
+- **[orderflowcontinuum](https://github.com/nabilkhondaker/OrderFlowContinuum)** — hybrid ns-resolution lob + sph/fem liquidity continuum with stress fields
+- **[adaptivemeshmontecarlo](https://github.com/nabilkhondaker/AdaptiveMeshMonteCarlo)** — adaptive monte carlo for path-dependent exotics with constitutive vol & pathwise greeks
+- **[computationalmechengine](https://github.com/nabilkhondaker/ComputationalMechEngine)** — c++20 fea engine with neo-hookean, j2 plasticity & newton–raphson
+- **[exchangelab](https://github.com/nabilkhondaker/ExchangeLab)** — event-driven synthetic exchange with price-time book, markouts & pnl attribution
+- **[equationfoundry](https://github.com/nabilkhondaker/EquationFoundry)** — sindy-style equation discovery with weak forms & held-out trajectory tests
+- **[veritaslab](https://github.com/nabilkhondaker/VeritasLab)** — numerical solver verification against independent analytic references
+- **[climatesim](https://github.com/nabilkhondaker/ClimateSim)** — coupled electrical–thermal infrastructure under heat stress
+- **[aifailureinvestigator](https://github.com/nabilkhondaker/AIFailureInvestigator)** — multi-sensor fault diagnosis & evidence-ranking pipeline
+- **[vehicledynamicsim](https://github.com/nabilkhondaker/VehicleDynamicSim)** — full multi-body vehicle dynamics with real-time integration
+- **[feagenerative](https://github.com/nabilkhondaker/FEAGenerative)** — real-time 2d topology optimization engine
+- **[microgridsim](https://github.com/nabilkhondaker/MicrogridSim)** — c++ microgrid with adaptive mppt, converter dynamics & storage dispatch
+- **[renewableenergysim](https://github.com/nabilkhondaker/RenewableEnergySim)** — high-performance python renewable energy microgrid simulator
+- **[aicybersecuritylab](https://github.com/nabilkhondaker/AICybersecurityLab)** — ai-assisted security investigation with attack graphs
+- **[neural-ik](https://github.com/nabilkhondaker/Neural-IK)** — neural vs analytical vs numerical inverse kinematics lab
+- **[cfdsolve](https://github.com/nabilkhondaker/CFDSolve)** — browser-based lattice boltzmann cfd with fluid–structure interaction
+- **[mechgenpro](https://github.com/nabilkhondaker/MechGenPro)** — procedural kinematics engine for generating & optimizing mechanical linkages
 
 ---
 
