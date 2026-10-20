@@ -2,7 +2,9 @@
 
 [![portfolio](https://img.shields.io/badge/Live%20Demo-nabilkhondaker.github.io-blue?style=for-the-badge)](https://nabilkhondaker.github.io/)
 
-**computational engineering student | quantitative scientific computing & sciML** | class of 2026 | riverside, ca | 🇧🇩
+## 🛠️ tech stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,python,js,cmake,lua,linux,git,github,vscode,latex&perline=10)](https://skillicons.dev)<br>**computational engineering student | quantitative scientific computing & sciML** | class of 2026 | riverside, ca | 🇧🇩
 
 ---
 
@@ -70,6 +72,8 @@ currently building toward **scientific computing & SciML** — custom FEA/CFD, g
 - **[neural-ik](https://github.com/nabilkhondaker/Neural-IK)** — neural vs analytical vs numerical inverse kinematics lab
 - **[cfdsolve](https://github.com/nabilkhondaker/CFDSolve)** — browser-based lattice boltzmann cfd with fluid–structure interaction
 - **[mechgenpro](https://github.com/nabilkhondaker/MechGenPro)** — procedural kinematics engine for generating & optimizing mechanical linkages
+
+![Top Languages](https://gitglance-eight.vercel.app/api/bars?username=nabilkhondaker&style=aurora&theme=dracula)
 
 ---
 
